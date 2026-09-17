@@ -1,5 +1,5 @@
 # Bike-Sharing-ML
-# Bike Sharing Demand Prediction 🚲
+# Bike Rental Demand Prediction 🚲
 
 This project focuses on predicting the number of bike rentals using historical hourly bike-sharing data. The dataset contains information about time, season, weather conditions, temperature, humidity, wind speed, and working days.
 
